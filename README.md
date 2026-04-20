@@ -9,8 +9,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sultanrafeed&label=Profile+Views&color=58a6ff&style=flat)](https://github.com/sultanrafeed)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=XCYSAkAAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafeed-sultan)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EPt8XpsAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafeed-sultan/)
 
 </div>
 
