@@ -133,7 +133,7 @@ class Rafeed:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+a+repo+if+you+find+it+useful;Always+learning%2C+always+building+🚀;Driven+by+curiosity%2C+grounded+in+research+🔬" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Always+learning,+always+building+%F0%9F%9A%80;Driven+by+curiosity,+grounded+in+research+%F0%9F%94%AC" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d1117&height=100&section=footer"/>
 
