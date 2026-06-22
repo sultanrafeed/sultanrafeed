@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Rafeed%20Mohammad%20Sultan&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20NLP%20Enthusiast&descAlignY=58&descColor=c9d1d9&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Rafeed%20Mohammad%20Sultan&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Incoming%20UTS%20Master%20of%20AI%20%7C%20NLP%20Enthusiast&descAlignY=58&descColor=c9d1d9&descSize=17" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=🔬+LLM+Alignment+%7C+RAG+Systems+%7C+Multilingual+NLP;🚀+Software+Engineer+%40+SELISE+Digital+Platforms;📄+4+Publications+%7C+ICPR+·+IEEE+BigData+·+IJCNN+·+Elsevier;🌏+Open+to+Graduate+Research+Opportunities)](https://github.com/sultanrafeed)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=🔬+LLM+Alignment+%7C+RAG+Systems+%7C+Multilingual+NLP;🎓+Incoming+Master+of+AI+%40+UTS+Sydney+%28Jul+2026%29;📄+4+Publications+%7C+ICPR+·+IEEE+BigData+·+IJCNN+·+Elsevier;🌏+Open+to+Graduate+Research+Opportunities)](https://github.com/sultanrafeed)
 
 <br/>
 
@@ -23,13 +23,14 @@
 ```python
 class Rafeed:
     name       = "Rafeed Mohammad Sultan"
-    role       = "Software Engineer @ SELISE Digital Platforms"
+    role       = "Incoming Master of AI @ UTS Sydney (Jul 2026)"
     research   = ["LLM Alignment & Evaluation", "Retrieval-Augmented Generation",
                   "Multilingual NLP", "Trustworthy AI", "Medical AI"]
-    education  = "BSc CSE — North South University, Dhaka (2024)"
+    education  = ["MSc AI — University of Technology Sydney (Commencing Jul 2026)",
+                  "BSc CSE — North South University, Dhaka (2024)"]
     supervisor = "Dr. Nabeel Mohammed — Apurba-NSU R&D Lab"
     papers     = 4   # ICPR 2024 · IEEE BigData 2024 · IJCNN 2025 · Q1 Elsevier
-    location   = "Dhaka, Bangladesh 🇧🇩"
+    location   = "Sydney, Australia 🇦🇺 (relocating Jul 2026)"
     goal       = "PhD in NLP / AI 🎯"
 ```
 
