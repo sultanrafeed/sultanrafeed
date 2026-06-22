@@ -1,40 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Rafeed%20Mohammad%20Sultan&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Incoming%20UTS%20Master%20of%20AI%20%7C%20NLP%20Enthusiast&descAlignY=58&descColor=c9d1d9&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Rafeed%20Mohammad%20Sultan&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Incoming%20MAI%20%40%20UTS%20%7C%20LLM%20Evaluation%20%26%20Alignment&descAlignY=58&descColor=c9d1d9&descSize=17" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=🔬+LLM+Alignment+%7C+RAG+Systems+%7C+Multilingual+NLP;🎓+Incoming+Master+of+AI+%40+UTS+Sydney+%28Jul+2026%29;📄+4+Publications+%7C+ICPR+·+IEEE+BigData+·+IJCNN+·+Elsevier;🌏+Open+to+Graduate+Research+Opportunities)](https://github.com/sultanrafeed)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Engineer;LLM+Evaluation%2C+Alignment+%26+Prompt+Engineering;Incoming+Master+of+AI+%40+UTS+Sydney" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sultanrafeed&label=Profile+Views&color=58a6ff&style=flat)](https://github.com/sultanrafeed)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EPt8XpsAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafeed-sultan/)
+<img src="https://komarev.com/ghpvc/?username=sultanrafeed&label=Profile%20Views&color=58a6ff&style=flat" />
+<a href="https://scholar.google.com/citations?user=EPt8XpsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rafeed-sultan/"><img src="https://img.shields.io/badge/LinkedIn-Rafeed%20Sultan-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 ```python
 class Rafeed:
     name       = "Rafeed Mohammad Sultan"
-    role       = "Incoming Master of AI @ UTS Sydney (Jul 2026)"
+    role       = "Software Engineer @ SELISE Digital Platforms (until Jun 2026)"
+    next_step  = "Incoming Master of Artificial Intelligence @ UTS (Jul 2026)"
     research   = ["LLM Alignment & Evaluation", "Retrieval-Augmented Generation",
                   "Multilingual NLP", "Trustworthy AI", "Medical AI"]
-    education  = ["MSc AI — University of Technology Sydney (Commencing Jul 2026)",
-                  "BSc CSE — North South University, Dhaka (2024)"]
+    education  = "Master of AI — UTS, Sydney (incoming Jul 2026) · BSc CSE — NSU (2024)"
     supervisor = "Dr. Nabeel Mohammed — Apurba-NSU R&D Lab"
     papers     = 4   # ICPR 2024 · IEEE BigData 2024 · IJCNN 2025 · Q1 Elsevier
-    location   = "Sydney, Australia 🇦🇺 (relocating Jul 2026)"
-    goal       = "PhD in NLP / AI 🎯"
+    location   = "Relocating to Sydney, Australia 🇦🇺 (Jul 2026)"
+    goal       = "Research & engineering in LLM evaluation and alignment 🎯"
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -59,8 +55,6 @@ class Rafeed:
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## 🛠️ Tech Stack
@@ -69,26 +63,23 @@ class Rafeed:
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 
 **ML / AI**
 
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-16213e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-0f3460?style=for-the-badge" />
 
-**Backend & Databases**
+**Data & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=nestjs,flask,django,postgres,mongodb&theme=dark)](https://skillicons.dev)
-
-**Frontend & Cloud**
-
-[![Skills](https://skillicons.dev/icons?i=react,azure,firebase,git,github,docker&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,latex" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -99,15 +90,11 @@ class Rafeed:
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sultanrafeed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanrafeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sultanrafeed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanrafeed&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -118,7 +105,7 @@ class Rafeed:
 <a href="https://www.linkedin.com/in/rafeed-sultan">
   <img src="https://img.shields.io/badge/LinkedIn-Rafeed%20Sultan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://scholar.google.com/citations?user=XCYSAkAAAAAJ&hl=en">
+<a href="https://scholar.google.com/citations?user=EPt8XpsAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 <a href="https://sultanrafeed.github.io/github-portfolio/">
