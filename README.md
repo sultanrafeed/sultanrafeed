@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Rafeed%20Mohammad%20Sultan&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Incoming%20MAI%20%40%20UTS%20%7C%20LLM%20Evaluation%20%26%20Alignment&descAlignY=58&descColor=c9d1d9&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Rafeed%20Mohammad%20Sultan&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20LLM%20Evaluation%20%26%20Alignment&descAlignY=58&descColor=c9d1d9&descSize=18" />
 
 <br/>
 
@@ -98,7 +98,7 @@ class Rafeed:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sultanrafeed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sultanrafeed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanrafeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 <br/>
