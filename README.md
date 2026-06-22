@@ -16,6 +16,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 ```python
@@ -31,6 +33,8 @@ class Rafeed:
     location   = "Relocating to Sydney, Australia 🇦🇺 (Jul 2026)"
     goal       = "Research & engineering in LLM evaluation and alignment 🎯"
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -55,6 +59,8 @@ class Rafeed:
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 🛠️ Tech Stack
@@ -63,7 +69,7 @@ class Rafeed:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
 
 **ML / AI**
 
@@ -72,14 +78,19 @@ class Rafeed:
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-16213e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MCP-0f3460?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
 
-**Data & Tools**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=git,latex" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql" />
+
+**Frontend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,docker,aws" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -95,6 +106,8 @@ class Rafeed:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanrafeed&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
