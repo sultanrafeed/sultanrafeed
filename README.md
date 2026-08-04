@@ -24,10 +24,10 @@
 class Rafeed:
     name       = "Rafeed Mohammad Sultan"
     role       = "Software Engineer @ SELISE Digital Platforms (until Jun 2026)"
-    next_step  = "Incoming Master of Artificial Intelligence @ UTS (Jul 2026)"
+    next_step  = "Seeking PhD full funding offers"
     research   = ["LLM Alignment & Evaluation", "Retrieval-Augmented Generation",
                   "Multilingual NLP", "Trustworthy AI", "Medical AI"]
-    education  = "Master of AI — UTS, Sydney (incoming Jul 2026) · BSc CSE — NSU (2024)"
+    education  = "Master of AI — UTS, Sydney · BSc CSE — NSU (2024)"
     supervisor = "Dr. Nabeel Mohammed — Apurba-NSU R&D Lab"
     papers     = 4   # ICPR 2024 · IEEE BigData 2024 · IJCNN 2025 · Q1 Elsevier
     location   = "Relocating to Sydney, Australia 🇦🇺 (Jul 2026)"
