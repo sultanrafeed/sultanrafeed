@@ -30,7 +30,7 @@ class Rafeed:
     education  = "Master of AI — UTS, Sydney · BSc CSE — NSU (2024)"
     supervisor = "Dr. Nabeel Mohammed — Apurba-NSU R&D Lab"
     papers     = 4   # ICPR 2024 · IEEE BigData 2024 · IJCNN 2025 · Q1 Elsevier
-    location   = "Relocating to Sydney, Australia 🇦🇺 (Jul 2026)"
+    location   = "Sydney, Australia"
     goal       = "Research & engineering in LLM evaluation and alignment 🎯"
 ```
 
