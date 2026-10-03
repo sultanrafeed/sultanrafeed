@@ -1,15 +1,15 @@
 <div align="center">
 
-# `rafeed-sultan`
+<img src="assets/header.svg" width="100%" alt="Rafeed Sultan: a neural constellation over Sydney Harbour at dusk"/>
 
-**a model card, but for a human**
+<sub><i>a model card, but for a human</i></sub>
 
-`params: 1 human` · `base: Dhaka` · `fine-tuned: Sydney` · `license: open to collaboration`
+`params: 1 human` &nbsp;·&nbsp; `base: Dhaka` &nbsp;·&nbsp; `fine-tuned: Sydney` &nbsp;·&nbsp; `license: open to collaboration`
 
-<a href="https://scholar.google.com/citations?user=EPt8XpsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4_papers-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rafeed-sultan/"><img src="https://img.shields.io/badge/LinkedIn-rafeed--sultan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://sultanrafeed.github.io/github-portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-FF5722?style=flat-square&logo=githubpages&logoColor=white"/></a>
-<a href="mailto:sultanrafeed@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=EPt8XpsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4_papers-b9a7ff?style=flat-square&logo=googlescholar&logoColor=white&labelColor=2b1b4f"/></a>
+<a href="https://www.linkedin.com/in/rafeed-sultan/"><img src="https://img.shields.io/badge/LinkedIn-rafeed--sultan-f08a5d?style=flat-square&logo=linkedin&logoColor=white&labelColor=2b1b4f"/></a>
+<a href="https://sultanrafeed.github.io/github-portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-ffc2a1?style=flat-square&logo=githubpages&logoColor=white&labelColor=2b1b4f"/></a>
+<a href="mailto:sultanrafeed@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-8a3b63?style=flat-square&logo=gmail&logoColor=white&labelColor=2b1b4f"/></a>
 
 </div>
 
@@ -17,9 +17,9 @@
 > I evaluate LLMs for a living, so it felt only fair to publish a model card for myself.
 > Benchmarks are real. Limitations are honest. Hallucination rate is low but nonzero.
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-## 📇 Model Details
+## 🌌 Model Details
 
 ```yaml
 model_name:    rafeed-mohammad-sultan
@@ -32,47 +32,100 @@ focus:         [llm-evaluation, alignment, rag, multilingual-nlp, trustworthy-ai
 status:        seeking fully funded PhD offers
 ```
 
----
+<img src="assets/divider.svg" width="100%"/>
+
+## 🗺️ The Journey (not to scale)
+
+```
+         ☾  ·    ✦          ·        ✦      ·       ✧
+    ✧        ·        ·          ✦         ·    ☀
+                                                         
+   ┌──────────┐      ✈  ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~     ┌──────────┐
+   │  DHAKA   │  ────────────── 7,000 km ──────────▶  │  SYDNEY  │
+   │  🇧🇩  ☕  │       carried: 4 papers, 1 laptop,     │  🇦🇺  🌊  │
+   └──────────┘       too many PyTorch checkpoints     └──────────┘
+     NSU · lab                                           UTS · MAI
+     SELISE                                              what next?
+```
+
+<img src="assets/divider.svg" width="100%"/>
 
 ## 📚 Training Data
 
-| Corpus | Epochs | What it taught me |
-|:--|:--|:--|
-| 🎓 **North South University**, BSc CSE | 2020 → 2024 | Foundations, plus a habit of specialising in AI |
-| 🔬 **Apurba-NSU R&D Lab** | 2023 → 2024 | Research under Dr. Nabeel Mohammed & Dr. Shafin Rahman. How to turn a question into a paper |
-| 💼 **SELISE Digital Platforms**, Dhaka | Oct 2024 → Jun 2026 | Intern → Associate SE → promoted. Production code, real users, real deadlines |
-| 🦘 **University of Technology Sydney**, Master of AI | Jul 2026 → now | Currently training. Loss is going down |
+| | Corpus | Epochs | What it taught me |
+|:-:|:--|:--|:--|
+| 🎓 | **North South University**, BSc CSE | 2020 → 2024 | Foundations, plus a habit of specialising in AI |
+| 🔬 | **Apurba-NSU R&D Lab** | 2023 → 2024 | Research under Dr. Nabeel Mohammed & Dr. Shafin Rahman. How to turn a question into a paper |
+| 💼 | **SELISE Digital Platforms**, Dhaka | Oct 2024 → Jun 2026 | Intern → Associate SE → promoted. Production code, real users, real deadlines |
+| 🦘 | **UTS Sydney**, Master of AI | Jul 2026 → now | Currently training. Loss is going down |
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🏆 Evaluation Results
 
-Peer reviewed, not self reported.
+<sub>peer reviewed, not self reported</sub>
 
-| Benchmark (venue) | Task | Result | Artifacts |
-|:--|:--|:--:|:--|
-| **ICPR 2024** | *Beyond Labels:* aligning LLMs with human-like reasoning | ✅ accepted | [arXiv](https://doi.org/10.48550/arXiv.2408.11879) · [code](https://github.com/apurba-nsu-rnd-lab/DFAR.git) |
-| **IEEE BigData 2024** | Empowering meta-analysis with LLMs for scientific synthesis | ✅ accepted | [arXiv](https://arxiv.org/abs/2411.10878) · [code](https://github.com/EncryptedBinary/Meta_analysis.git) |
-| **IJCNN 2025** | *LegalRAG:* hybrid RAG for multilingual legal NLP | ✅ accepted | [arXiv](https://arxiv.org/abs/2504.16121) |
-| **Intelligence-Based Medicine** (Elsevier, Q1) | Efficient skin cancer detection via model souping & distillation | ✅ published | [paper](https://www.sciencedirect.com/science/article/pii/S2666521224000437) |
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🧠</h3>
+<b>Beyond Labels</b><br/>
+<sub>aligning LLMs with human-like reasoning</sub><br/><br/>
+<code>ICPR 2024</code><br/><br/>
+<a href="https://doi.org/10.48550/arXiv.2408.11879">arXiv</a> · <a href="https://github.com/apurba-nsu-rnd-lab/DFAR.git">code</a>
+</td>
+<td align="center" width="25%">
+<h3>📊</h3>
+<b>LLM Meta-Analysis</b><br/>
+<sub>LLMs for scientific synthesis</sub><br/><br/>
+<code>IEEE BigData 2024</code><br/><br/>
+<a href="https://arxiv.org/abs/2411.10878">arXiv</a> · <a href="https://github.com/EncryptedBinary/Meta_analysis.git">code</a>
+</td>
+<td align="center" width="25%">
+<h3>⚖️</h3>
+<b>LegalRAG</b><br/>
+<sub>hybrid RAG for multilingual legal NLP</sub><br/><br/>
+<code>IJCNN 2025</code><br/><br/>
+<a href="https://arxiv.org/abs/2504.16121">arXiv</a>
+</td>
+<td align="center" width="25%">
+<h3>🔬</h3>
+<b>Model Soup Skin AI</b><br/>
+<sub>skin cancer detection via souping & distillation</sub><br/><br/>
+<code>Elsevier Q1</code><br/><br/>
+<a href="https://www.sciencedirect.com/science/article/pii/S2666521224000437">paper</a>
+</td>
+</tr>
+</table>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🎯 Intended Use
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **✅ Recommended for**
 - Designing evals that catch what accuracy scores hide
 - Alignment and reasoning research for LLMs
-- RAG pipelines that need to work in more than one language (Bangla included, natively)
+- RAG pipelines that work in more than one language (Bangla included, natively)
 - Taking a research idea all the way to code that ships
 
+</td>
+<td valign="top" width="50%">
+
 **⚠️ Known limitations**
-- Will happily build a 14-row ablation table when 3 rows would do
+- Will build a 14-row ablation table when 3 rows would do
 - Performance degrades sharply without cha
-- Easily distracted by a better evaluation metric
+- Easily distracted by a prettier evaluation metric
 - Still calibrating to Sydney weather
 
----
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%"/>
 
 ## ⚡ Inference Example
 
@@ -90,11 +143,12 @@ Peer reviewed, not self reported.
 'sultanrafeed@gmail.com. I reply faster than most APIs.'
 ```
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🌿 Changelog
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'git0':'#f08a5d','git1':'#b9a7ff','git2':'#58a6ff','commitLabelColor':'#ffe9d6','commitLabelBackground':'#2b1b4f'}}}%%
 gitGraph
   commit id: "2020: NSU CSE"
   branch research
@@ -119,7 +173,7 @@ gitGraph
   commit id: "UTS Master of AI"
 ```
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## 📦 Dependencies
 
@@ -137,7 +191,7 @@ cha>=2     # cups per day, hard requirement
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,fastapi,nodejs,postgres,mongodb,react,ts,docker,aws&perline=13" />
 </div>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## 📈 Training Telemetry
 
@@ -145,12 +199,12 @@ cha>=2     # cups per day, hard requirement
 <summary><b>click to expand the loss curves</b> (fine, they're GitHub stats)</summary>
 <br/>
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sultanrafeed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanrafeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sultanrafeed&show_icons=true&hide_border=true&count_private=true&bg_color=1a1236&title_color=f08a5d&icon_color=b9a7ff&text_color=ffe9d6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanrafeed&layout=compact&hide_border=true&bg_color=1a1236&title_color=f08a5d&text_color=ffe9d6&langs_count=6" />
 </div>
 </details>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## 📝 Citation
 
@@ -167,5 +221,17 @@ If this profile was useful to your hiring committee, please cite:
 ```
 
 <div align="center">
-<sub>model card last updated Oct 2026 · no humans were overfit in the making of this README</sub>
+
+```
+   (  )   (   )  )
+    ) (   )  (  (       this README was brewed, not generated.
+    ( )  (    ) )       
+   _____________        no humans were overfit in the making of it.
+  <_____________> ___   
+  |             |/ _ \  
+  |   rafeed    | | | | 
+  |   v2026.10  |_| |_| 
+  \_____________/       
+```
+
 </div>
