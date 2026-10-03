@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Rafeed Sultan: a neural constellation over Sydney Harbour at dusk"/>
+<img src="header.svg" width="100%" alt="Rafeed Sultan: a neural constellation over Sydney Harbour at dusk"/>
 
 <sub><i>a model card, but for a human</i></sub>
 
@@ -17,7 +17,7 @@
 > I evaluate LLMs for a living, so it felt only fair to publish a model card for myself.
 > Benchmarks are real. Limitations are honest. Hallucination rate is low but nonzero.
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🌌 Model Details
 
@@ -32,7 +32,7 @@ focus:         [llm-evaluation, alignment, rag, multilingual-nlp, trustworthy-ai
 status:        seeking fully funded PhD offers
 ```
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🗺️ The Journey (not to scale)
 
@@ -48,7 +48,7 @@ status:        seeking fully funded PhD offers
      SELISE                                              what next?
 ```
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 📚 Training Data
 
@@ -59,7 +59,7 @@ status:        seeking fully funded PhD offers
 | 💼 | **SELISE Digital Platforms**, Dhaka | Oct 2024 → Jun 2026 | Intern → Associate SE → promoted. Production code, real users, real deadlines |
 | 🦘 | **UTS Sydney**, Master of AI | Jul 2026 → now | Currently training. Loss is going down |
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🏆 Evaluation Results
 
@@ -98,7 +98,7 @@ status:        seeking fully funded PhD offers
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🎯 Intended Use
 
@@ -125,7 +125,7 @@ status:        seeking fully funded PhD offers
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## ⚡ Inference Example
 
@@ -143,7 +143,7 @@ status:        seeking fully funded PhD offers
 'sultanrafeed@gmail.com. I reply faster than most APIs.'
 ```
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🌿 Changelog
 
@@ -173,7 +173,7 @@ gitGraph
   commit id: "UTS Master of AI"
 ```
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 📦 Dependencies
 
@@ -191,7 +191,7 @@ cha>=2     # cups per day, hard requirement
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,fastapi,nodejs,postgres,mongodb,react,ts,docker,aws&perline=13" />
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 📈 Training Telemetry
 
@@ -204,7 +204,7 @@ cha>=2     # cups per day, hard requirement
 </div>
 </details>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 📝 Citation
 
